@@ -3,11 +3,6 @@ search-funcs/3
 search-funcs/2
 
 == lodox-parse ==
-documented/1
 script-doc/1
 macro-doc/1
 form-doc/1
-
-== lodox ==
-generated/3
-write-docs/1
