@@ -1,7 +1,3 @@
-== lodox-util ==
-search-funcs/3
-search-funcs/2
-
 == lodox-parse ==
 script-doc/1
 macro-doc/1
