@@ -1,9 +1,3 @@
-== pandoc ==
-timestamp/0
-random-string/0
-random-name/0
-convert-string/4
-
 == lodox-parse ==
 script-doc/1
 macro-doc/1
